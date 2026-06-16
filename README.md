@@ -21,6 +21,7 @@ M1 Cyberdefense student @ École Hexagone (Versailles, France)
 | Project | Description |
 |---------|-------------|
 | [Ultimate-DNS-Shield](https://github.com/cherifon/Ultimate-DNS-Shield) | Self-hosted recursive DNS — Pi-hole + Unbound + Docker on Raspberry Pi |
+| [Privacy-PDF-Editor](https://github.com/cherifon/Privacy-PDF-Editor) | Self-hosted PDF editor — merge, anonymize & watermark PDFs locally · FastAPI + PDF.js + Docker |
 | [Cybersecurity-Tools](https://github.com/cherifon/Cybersecurity-Tools) | Collection of security tools written in Python |
 | [CO2_Forecasting](https://github.com/cherifon/CO2_Forecasting) | CO2 level forecasting using STM32 sensor data and time series analysis |
 | [STM32_SDC30_CO2_Sensor](https://github.com/cherifon/STM32_SDC30_CO2_Sensor) | SCD30 CO2 sensor integration with STM32L4 |
